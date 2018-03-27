@@ -1,0 +1,43 @@
+caseno;diagnosis
+1;Bowen's disease
+2;Junctional melanocytic nevus
+3;Unclear melanocytic lesion, recommend complete excision with 0.5cm margins
+4;Dermatofibroma
+5;Lentigo maligna melanoma, Clark level III, Breslow 0.7mm, <1 Mitosis/mm2, in toto
+6;Collision of seborrheic keratosis and basal cell carcinoma, in toto
+7;Seborrheic keratosis
+8;Actinic Keratosis without signs of invasive alterations
+9;Unclear melanocytic lesion, recommend complete excision with 0.5cm margins
+10;No signs of residual tumor
+11;Fibrosis and acanthosis, consistent with scar after previous biopsy
+12;Spindlecell-nevus Reed
+13;Basal cell carcinoma (punch biopsy)
+14;Clark's nevus
+15;Nodular melaoma, Breslow thickness 4mm, <1 Mitoses/mm2, lateral margins clear
+16;Blue nevus
+17;Superficial spreading melanoma, Breslow thickness 0.4mm, Clark III, <1 Mitoses/mm2
+18;Seborrheic keratosis
+19;Partial biopsy of lentigo maligna with all lateral margins involved
+20;SSM in association with a preexisting dermal nevus
+21;Seborrhoeic keratosis
+22;nevus sebaceus
+23;Compound Nevus
+24;Superficial spreading melanoma, in situ, in toto
+25;Angiokeratoma (Punch biopsy)
+26;Dermatofibroma
+27;Seborrheic keratosis
+28;Hemangioma
+29;Irritated Clark's naevus
+30;Junctional nevus
+31;Recurrent naevus
+32;Eruptive capillary angioma
+33;Thrombosed angioma
+34;Hemosiderotic Dermatofibroma
+35;Dermatofibroma
+36;Intraepithelial Carcinoma, in toto
+37;Verruca seborrhoica
+38;Junctional nevus
+39;Seborrheic keratosis
+40;Angioma (punch biopsy)
+41;Pigmented nodular basal cell carcinoma (punch biopsy)
+42;Morpheiform BCC, in toto
