@@ -3,7 +3,7 @@
 """
 Extract images with corresponding label from PPTX-presentations.
 (c) Philipp Tschandl, 2018
-You may re-use this code under the CC BY-NC-SA-4.0 license.
+You may re-use this code under the CC BY-NC 4.0 license.
 
 Instructions:
 - Run "python extract_pptx.py"

@@ -1,12 +1,12 @@
 # HAM 10000 Dataset Tools
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
 
 This repository gives access to the tools created and used
 for assembling the training dataset for the proposed HAM-10000
 (*Human Against Machine with 10000 training images*)
 study, which is planned to extend part 3 of the ISIC 2018
-challenge. The training dataset is accessible through the [ISIC 2018 challenge](http://workshop2018.isic-archive.com/#challenge), and will perpetually
+challenge. The training dataset is accessible through the [ISIC 2018 challenge](https://challenge2018.isic-archive.com/task3/), and will perpetually
 be available in the [ISIC-archive](https://isic-archive.com/#images)
 thereafter.
 

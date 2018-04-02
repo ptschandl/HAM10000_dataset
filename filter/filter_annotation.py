@@ -3,7 +3,7 @@
 """
 opencv based annotation of image types.
 (c) Philipp Tschandl, 2018
-You may re-use this code under the CC BY-NC-SA-4.0 license.
+You may re-use this code under the CC BY-NC 4.0 license.
 
 Instructions:
 - Start the script with "python classify_annotation.py"
