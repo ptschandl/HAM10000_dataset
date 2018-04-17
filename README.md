@@ -6,9 +6,7 @@ This repository gives access to the tools created and used
 for assembling the training dataset for the proposed HAM-10000
 (*Human Against Machine with 10000 training images*)
 study, which is planned to extend part 3 of the ISIC 2018
-challenge. The training dataset is accessible through the [ISIC 2018 challenge](https://challenge2018.isic-archive.com/task3/), and will perpetually
-be available in the [ISIC-archive](https://isic-archive.com/#images)
-thereafter.
+challenge. The training dataset is accessible through the [ISIC 2018 challenge](https://challenge2018.isic-archive.com/task3/) and the [ISIC-archive](https://isic-archive.com/#images).
 
 <hr>
 
@@ -76,3 +74,24 @@ to final images before data submission to the archive:
 `find . -type f \( -iname \*.jpg -o -iname \*.jpeg -o -iname \*.tiff -o -iname \*.tif \) -print0 | xargs -0 -n1 mogrify -strip -rotate "90<" -resize "600x450^" -gravity center -crop 600x450+0+0 -density 72 -units PixelsPerInch -format jpg -quality 100`
 
 <hr>
+
+# Cite
+If tools or data helped your research, please cite:
+```
+@article{DBLP:journals/corr/abs-1803-10417,
+  author    = {Philipp Tschandl and
+               Cliff Rosendahl and
+               Harald Kittler},
+  title     = {The {HAM10000} Dataset: {A} Large Collection of Multi-Source Dermatoscopic
+               Images of Common Pigmented Skin Lesions},
+  journal   = {CoRR},
+  volume    = {abs/1803.10417},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1803.10417},
+  archivePrefix = {arXiv},
+  eprint    = {1803.10417},
+  timestamp = {Wed, 11 Apr 2018 17:54:17 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1803-10417},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
