@@ -6,7 +6,7 @@ This repository gives access to the tools created and used
 for assembling the training dataset for the proposed HAM-10000
 (*Human Against Machine with 10000 training images*)
 study, which is planned to extend part 3 of the ISIC 2018
-challenge. The training dataset is accessible through the [ISIC 2018 challenge](https://challenge2018.isic-archive.com/task3/) and the [ISIC-archive](https://isic-archive.com/#images).
+challenge. The dataset itself is available for download at the [Harvard dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) or the [ISIC-archive](https://isic-archive.com/#images).
 
 <hr>
 
