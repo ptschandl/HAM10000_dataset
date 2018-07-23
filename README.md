@@ -77,21 +77,22 @@ to final images before data submission to the archive:
 
 # Cite
 If tools or data helped your research, please cite:
+
 ```
-@article{DBLP:journals/corr/abs-1803-10417,
+Tschandl, P., Rosendahl, C. & Kittler, H. The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions. Sci. Data 5, 180161 doi:10.1038/sdata.2018.161 (2018).
+```
+
+BibTex
+```
+@article{Tschandl2018_HAM10000,
   author    = {Philipp Tschandl and
                Cliff Rosendahl and
                Harald Kittler},
-  title     = {The {HAM10000} Dataset: {A} Large Collection of Multi-Source Dermatoscopic
-               Images of Common Pigmented Skin Lesions},
-  journal   = {CoRR},
-  volume    = {abs/1803.10417},
+  title     = {The {HAM10000} dataset, a large collection of multi-source dermatoscopic
+               images of common pigmented skin lesions},
+  journal   = {Sci. Data},
+  volume    = {5},
   year      = {2018},
-  url       = {http://arxiv.org/abs/1803.10417},
-  archivePrefix = {arXiv},
-  eprint    = {1803.10417},
-  timestamp = {Wed, 11 Apr 2018 17:54:17 +0200},
-  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1803-10417},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  doi       = {10.1038/sdata.2018.161}
 }
 ```
