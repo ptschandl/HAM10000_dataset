@@ -5,7 +5,7 @@
 This repository gives access to the tools created and used
 for assembling the training dataset for the proposed HAM-10000
 (*Human Against Machine with 10000 training images*)
-study, which is planned to extend part 3 of the ISIC 2018
+study, which extending part 3 of the ISIC 2018
 challenge. The dataset itself is available for download at the [Harvard dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) or the [ISIC-archive](https://isic-archive.com/#images).
 
 <hr>
@@ -78,11 +78,8 @@ to final images before data submission to the archive:
 # Cite
 If tools or data helped your research, please cite:
 
-```
-Tschandl, P., Rosendahl, C. & Kittler, H. The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions. Sci. Data 5, 180161 doi:10.1038/sdata.2018.161 (2018).
-```
+- Tschandl, P., Rosendahl, C. & Kittler, H. The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions. Sci. Data 5, 180161 doi:10.1038/sdata.2018.161 (2018).
 
-BibTex
 ```
 @article{Tschandl2018_HAM10000,
   author    = {Philipp Tschandl and
