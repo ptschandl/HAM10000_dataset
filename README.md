@@ -90,6 +90,7 @@ If tools or data helped your research, please cite:
   journal   = {Sci. Data},
   volume    = {5},
   year      = {2018},
+  pages     = {180161},
   doi       = {10.1038/sdata.2018.161}
 }
 ```
