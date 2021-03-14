@@ -75,6 +75,12 @@ to final images before data submission to the archive:
 
 <hr>
 
+## Segment
+
+- [`segment/imagej_fiji_macros.ijm`](segment/imagej_fiji_macros.ijm) contains macros enabling an efficient workflow for loading, reviewing, correcting and creating binary segmentation masks. The masks needing review need to be created beforehand by other means. These macros were used, together with the neural network based on [this paper](https://doi.org/10.1016/j.compbiomed.2018.11.010), to create the segmentation masks for analyses in [Tschandl et al. 2020](https://doi.org/10.1038/s41591-020-0942-0).
+
+<hr>
+
 # Cite
 If tools or data helped your research, please cite:
 
@@ -94,3 +100,25 @@ If tools or data helped your research, please cite:
   doi       = {10.1038/sdata.2018.161}
 }
 ```
+
+If you used the segmentation macros or resulting segmentation masks from [here](https://doi.org/10.7910/DVN/DBW86T/EGDUDF), please cite:
+
+- Tschandl, P. et al. Human–computer collaboration for skin cancer recognition. Nat Med 26, 1229–1234 (2020). https://doi.org/10.1038/s41591-020-0942-0 
+
+```
+@article{Tschandl2020_NatureMedicine,
+  author = {Philipp Tschandl and Christoph Rinner and Zoe Apalla and Giuseppe Argenziano and Noel Codella and Allan Halpern and Monika Janda and Aimilios Lallas and Caterina Longo and Josep Malvehy and John Paoli and Susana Puig and Cliff Rosendahl and H. Peter Soyer and Iris Zalaudek and Harald Kittler},
+  title = {Human{\textendash}computer collaboration for skin cancer recognition},
+  journal = {Nature Medicine},
+  volume = {26},
+  number = {8},
+  year = {2020},
+  pages = {1229--1234},
+  doi = {10.1038/s41591-020-0942-0},
+  url = {https://doi.org/10.1038/s41591-020-0942-0}
+}
+```
+
+
+
+
